@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  내 첫 제품의 실패기
+title:  내 첫 제품 실패기
 date:   2025-01-23 12-09-00 +0900
 comments: true
 ---
