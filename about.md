@@ -4,7 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Welcome to my blog. I'm Jongyeol Choi. I'm a server-side software engineer. If you want to know about me more, please read [my resume][linkedin] or [my github][github].
+I'm Jongyeol Choi, a full-time indie hacker (or, indie maker).
 
-[linkedin]: https://www.linkedin.com/in/jongyeol
-[github]: https://github.com/jongyeol
+* [LinkedIn](https://linkedin.com/in/jongyeol)
+* [GitHub](https://github.com/jongyeol)
+* [X (Twitter)](https://x.com/jongyeolchoi)
+* [Threads](https://www.threads.net/@jongyeol_choi_)
